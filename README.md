@@ -13,8 +13,7 @@ An end-to-end Machine Learning web application that predicts **district-level cr
 
 ## 🚀 Live Demo
 
-🔗 **[crop-yield-predictor.onrender.com](https://crop-yield-predictor.onrender.com)**
-
+🔗 **https://crop-yield-predictor-iub1.onrender.com/**
 ---
 
 ## 📸 Screenshots
